@@ -1,0 +1,4 @@
+"0","Json_address = ""https://api.nytimes.com/svc/movies/v2/reviews/search.json?query=godfather&api-key=JfeadB9uIDX993hE1czbY3pw6zjAHYH4"""
+"0","json_raw <- fromJSON(Json_address)"
+"0","json_table <- as.data.frame(json_raw,)"
+"0","json_table"

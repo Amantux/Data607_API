@@ -1,0 +1,2 @@
+"0","test <- get_creds(""service1"")"
+"0","key <- test$key"
